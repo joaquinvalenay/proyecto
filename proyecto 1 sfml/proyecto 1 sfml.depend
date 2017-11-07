@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509325134 source:e:\joaquin\documents\programacion\proyecto 1 sfml\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+
